@@ -91,13 +91,16 @@ Each contact method is clickable for your convenience.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/JessycaMoraes/Portfolio-app.git
+   cd Portfolio-app
+   ```
 
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
 
-3. Install dependencies:
+3. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run profile.py
+   ```
