@@ -94,3 +94,10 @@ Each contact method is clickable for your convenience.
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
 
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Install dependencies:
+   ```bash
+   streamlit run app.py
