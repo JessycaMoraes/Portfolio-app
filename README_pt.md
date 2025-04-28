@@ -5,16 +5,13 @@ Bem-vindo(a) ao meu portfólio profissional desenvolvido usando **Streamlit**!
 Este aplicativo apresenta meu histórico, habilidades, projetos e depoimentos de maneira estruturada e interativa.
 
 ## 📋 Índice
-- [Sobre](#sobre)
-- [Ferramentas](#ferramentas)
-- [Linha do Tempo Profissional](#linha-do-tempo-profissional)
-- [Projetos](#projetos)
-- [Por que Me Contratar](#por-que-me-contratar)
-- [Depoimentos](#depoimentos)
-- [Contato](#contato)
-- [Como Rodar Localmente](#como-rodar-localmente)
-- [Capturas de Tela](#capturas-de-tela)
-- [Licença](#licença)
+- [Sobre](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#b05cae33)
+- [Ferramentas](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#8eb6cf46)
+- [Linha do Tempo Profissional](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#6cc527e9)
+- [Projetos](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#91d9067a)
+- [Por que Me Contratar](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#3e7f1dcf)
+- [Depoimentos](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#4fa4b0f1)
+- [Contato](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#c7e0b39f)
 
 ---
 
@@ -104,3 +101,28 @@ Cada método de contato é clicável para sua conveniência.
    ```bash
    streamlit run profile.py
    ```
+
+## 📂 Estrutura do Projeto
+```bash
+assets/
+    images/          # Imagens de perfil e dos projetos
+    styles/          # Arquivos de estilo CSS
+    CVs/             # Currículos para download (EN/PT)
+components.py        # Componentes de interface personalizados
+app_data/
+    tools.py         # Ferramentas e habilidades
+    experiences.py   # Experiências profissionais, educação, certificados
+    projects.py      # Projetos desenvolvidos
+    hire.py          # Dados dos cards "Por que me contratar"
+    testimonials.py  # Depoimentos
+    contacts.py      # Contatos
+profile.py           # Arquivo principal da aplicação
+requirements.txt     # Dependências do Python
+```
+
+## 🛠️  Tecnologias Principais
+- Streamlit: Para construção da aplicação web
+- Python: Para backend e lógica
+- HTML/CSS: Para estilização personalizada no Streamlit
+- Base64: Para carregamento de imagens
+- Paginação e Filtros: Implementados manualmente na seção de projetos
