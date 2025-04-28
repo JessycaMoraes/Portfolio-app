@@ -50,7 +50,7 @@ link_button("Tools", "🛠️", "skills", "btn-link-skyBlue")
 link_button("Professional timeline", "⏳", "timeline", "btn-link-purple")
 link_button("My Projects", "📂", "projects", "btn-link-green")
 link_button("Why hire me?", "💼", "why_hire", "btn-link-orange")
-link_button("Testimonials", "💬", "testimonials", "btn-link-coolGray")
+link_button("Testimonials", "💬", "testimonials", "btn-link-magenta")
 link_button("Contact", "📬", "contact", "btn-link-red")
 
 #---------------------------------------------------------------------------------------------
