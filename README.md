@@ -8,10 +8,10 @@ This app showcases my background, skills, projects, and testimonials in a struct
 - [About](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#b05cae33)
 - [Tools](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#8eb6cf46)
 - [Professional Timeline](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#6cc527e9)
-- [Projects]((https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#91d9067a))
-- [Why Hire Me]((https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#3e7f1dcf))
-- [Testimonials]((https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#4fa4b0f1))
-- [Contact]((https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#c7e0b39f))
+- [Projects](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#91d9067a))
+- [Why Hire Me](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#3e7f1dcf))
+- [Testimonials](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#4fa4b0f1))
+- [Contact](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#c7e0b39f))
 
 ---
 
