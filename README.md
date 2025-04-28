@@ -104,3 +104,28 @@ Each contact method is clickable for your convenience.
    ```bash
    streamlit run profile.py
    ```
+
+## 📂 Project Structure
+```bash
+assets/
+    images/          # Profile and project images
+    styles/          # CSS style files
+    CVs/             # Resumes available for download (EN/PT)
+components.py        # Custom UI components
+app_data/
+    tools.py         # Tools and skills data
+    experiences.py   # Work experience, education, certifications
+    projects.py      # Developed projects
+    hire.py          # "Why Hire Me" cards data
+    testimonials.py  # Testimonials
+    contacts.py      # Contact information
+profile.py           # Main application file
+requirements.txt     # Python dependencies
+```
+
+## 🛠️ Main Technologies
+- Streamlit: For building the web application
+- Python: For backend and logic
+- HTML/CSS: For custom styling inside Streamlit
+- Base64: For image loading
+- Pagination and Filters: Manually implemented in the Projects section
