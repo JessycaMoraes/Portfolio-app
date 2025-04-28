@@ -1,0 +1,237 @@
+.btn-link-blue {
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+    color: #2563EB;
+    cursor: pointer;
+}
+
+.btn-link-skyBlue {
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+    color: #60B4FF;
+    cursor: pointer;
+}
+
+.btn-link-purple {
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+    color: #B27EFF;
+    cursor: pointer;
+}
+
+.btn-link-green {
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+    color: #3DD56D;
+    cursor: pointer;
+}
+
+.btn-link-orange {
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+    color: #FFBD44;
+    cursor: pointer;
+}
+
+.btn-link-coolGray {
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+    color: 	#00BCD4;
+    cursor: pointer;
+}
+
+.btn-link-red {
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+    color: 	#FF4B4B;
+    cursor: pointer;
+}
+
+.text-link {
+    text-decoration: underline;
+}
+
+.tool-card {
+    border: 1px solid #444;
+    border-radius: 12px;
+    padding: 10px 20px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background-color: #111;
+    color: white;
+}
+
+.tool-card img {
+    width: 24px;
+    height: 24px;
+}
+
+.project-card {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.2s;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+.project-card:hover {
+    transform: scale(1.02);
+}
+
+.project-logo {
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.card-project-title {
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 4px;
+}
+
+.card-project-title a {
+    color: #60B4FF;
+    text-decoration: underline;
+}
+
+.card-project-title a:hover {
+    color: #479bd4;
+}
+
+.card-project-desc {
+    font-size: 14px;
+    color: #d0d0d0;
+}
+
+.card-project-year {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #d0d0d0;
+}
+
+.tag {
+    display: inline-block;
+    padding: 3px 8px;
+    margin-right: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.tag-blue {
+    background-color: #1f77b4;
+    color: white;
+}
+
+.tag-gold {
+    background-color: #b8860b;
+    color: white;
+}
+
+.tag-green {
+    background-color: #12b929;
+    color: white;
+}
+
+.button-page-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.nav-button-page {
+    padding: 8px 16px;
+    background-color: #60B4FF;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.nav-button-page:hover {
+    background-color: #3b9ce0;
+}
+
+.footer-message {
+    background: #1f2937;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 12px;
+    font-size: 1rem;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+.download-cv-button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.download-cv-button {
+    background-color: #3b82f6;
+    color: white !important;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 12px;
+    text-decoration: none !important;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px #999;
+}
+
+.card-contact {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.card-contact img {
+    width: 30px;
+    height: 30px;
+}
+
+.card-contact:hover {
+    transform: scale(1.05);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.2);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
