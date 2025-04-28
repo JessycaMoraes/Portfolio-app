@@ -5,16 +5,13 @@ Welcome to my professional portfolio built using **Streamlit**!
 This app showcases my background, skills, projects, and testimonials in a structured and interactive way.
 
 ## 📋 Table of Contents
-- [About](#about)
-- [Tools](#tools)
-- [Professional Timeline](#professional-timeline)
-- [Projects](#projects)
-- [Why Hire Me](#why-hire-me)
-- [Testimonials](#testimonials)
-- [Contact](#contact)
-- [How to Run Locally](#how-to-run-locally)
-- [Screenshots](#screenshots)
-- [License](#license)
+- [About](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#b05cae33)
+- [Tools](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#8eb6cf46)
+- [Professional Timeline](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#6cc527e9)
+- [Projects]([#projects](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#91d9067a))
+- [Why Hire Me]([#why-hire-me](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#3e7f1dcf))
+- [Testimonials]([#testimonials](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#4fa4b0f1))
+- [Contact]([#contact](https://portfolio-app-jessyca-moraes.streamlit.app/~/+/?#c7e0b39f))
 
 ---
 
