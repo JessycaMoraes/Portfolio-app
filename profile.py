@@ -127,7 +127,7 @@ render_section_exp("Certificates/Courses", "🏆", cert_courses)
 #SECTION 4 - PROJECTS
 
 st.markdown("<div id='projects'></div>", unsafe_allow_html = True)
-st.markdown("<h2 style='color:#3DD56D; margin-top: 25px;'>🛠️ My Projects</h2>", unsafe_allow_html = True)
+st.markdown("<h2 style='color:#3DD56D; margin-top: 25px;'>📂 My Projects</h2>", unsafe_allow_html = True)
 
 ## Filter by tags
 all_tags = sorted(set(tag for p in projects for tag in [p["tag1"], p["tag2"], p["tag3"]]))
