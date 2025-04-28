@@ -2,7 +2,7 @@ contacts = [
     {
         "icon": "assets/images/gmail_logo.png", 
         "text": "Email", 
-        "url": "jessyca.jbmoraes@gmail.com"
+        "url": "mailto:jessyca.jbmoraes@gmail.com"
     },
 
     {
