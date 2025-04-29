@@ -126,3 +126,7 @@ requirements.txt     # Python dependencies
 - HTML/CSS: For custom styling inside Streamlit
 - Base64: For image loading
 - Pagination and Filters: Manually implemented in the Projects section
+
+### 🙏 Credits and Inspiration
+
+This portfolio was inspired by the portfolio workshop from [Letícia Pires](https://www.linkedin.com/in/leticia-pires/), where she demonstrated how to structure a data portfolio using Notion. I adapted the layout and visual organization into an interactive version using **Streamlit**.
