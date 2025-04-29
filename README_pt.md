@@ -126,3 +126,7 @@ requirements.txt     # Dependências do Python
 - HTML/CSS: Para estilização personalizada no Streamlit
 - Base64: Para carregamento de imagens
 - Paginação e Filtros: Implementados manualmente na seção de projetos
+
+### 🙏 Créditos e Inspiração
+
+Este portfólio foi inspirado no workshop de portfólio da [Letícia Pires](https://www.linkedin.com/in/leticia-pires/), onde ela demonstrou como estruturar um portfólio de dados utilizando o Notion. Adaptei o layout e a organização visual para uma versão interativa utilizando **Streamlit**.
