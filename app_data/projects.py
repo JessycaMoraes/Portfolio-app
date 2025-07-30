@@ -184,7 +184,7 @@ projects = [
         "tag3": "Normalization",
         "image_path": "assets/images/discretization.png",
         "link": f"https://github.com/JessycaMoraes/Pos-DataScience-UEA/tree/master/Module%204%20-%20Data%20Acquisition%2C%20Preprocessing%20and%20Exploration/Assignment%202_%20Discretization"
-    }
+    },
 
     {
         "title": "Global YouTube Statistics Dashboard",
