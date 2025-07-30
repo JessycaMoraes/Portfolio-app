@@ -1,5 +1,19 @@
 experiences = [
     {
+        "logo": "assets/images/act_digital_logo.jpeg",
+        "title": "Data Analyst | Business Intelligence Analyst",
+        "subtitle": "Act Digital",
+        "period": "05/2025 to present",
+        "desc": """
+            - Built new dashboards from scratch in Looker Studio to meet evolving business needs and enhance visibility of ad performance;
+            - Improved the reliability and accuracy of Looker Studio dashboards by identifying and correcting data inconsistencies;
+            - Streamlined communication between business and BI teams through a structured request process based on requirements gathering;
+            - Explored automated dashboard creation using Python and Google Sheets, identifying technical limitations that led to the decision to not pursue this approach.\n  
+            **Tools:** Python, SQL, Google BigQuery, Google Cloud Platform (GCP), Looker Studio, Google Sheets, Gitlab, Jira, Confluence.
+        """
+    },
+    
+    {
         "logo": "assets/images/alrightmediatech_logo.jpeg",
         "title": "Data Analyst | Analytics Engineer",
         "subtitle": "Alright",
