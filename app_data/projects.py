@@ -185,4 +185,15 @@ projects = [
         "image_path": "assets/images/discretization.png",
         "link": f"https://github.com/JessycaMoraes/Pos-DataScience-UEA/tree/master/Module%204%20-%20Data%20Acquisition%2C%20Preprocessing%20and%20Exploration/Assignment%202_%20Discretization"
     }
+
+    {
+        "title": "Global YouTube Statistics Dashboard",
+        "description": "This project analyzes a dataset of global YouTube statistics from 2023",
+        "year": "2025",
+        "tag1": "Looker Studio",
+        "tag2": "Google BigQuery",
+        "tag3": "Python",
+        "image_path": "assets/images/youtube_logo.png",
+        "link": f"https://github.com/JessycaMoraes/Youtube-dashboard"
+    }
 ]
