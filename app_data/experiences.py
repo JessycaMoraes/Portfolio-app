@@ -61,6 +61,16 @@ experiences = [
 
 education_br = [
     {
+        "logo": "assets/images/infnet_logo.png",
+        "title": "Infnet Institute",
+        "subtitle": "MIT in Data Engineering: Big Data",
+        "period": "07/2025 to present",
+        "desc": """
+            - **Relevant coursework:** MongoDB, Hadoop, Kafka, Spark, Python, Google Bigquery, Machine Learning.
+        """
+    },
+    
+    {
         "logo": "assets/images/uea_logo.png",
         "title": "UEA - State University of Amazonas",
         "subtitle": "Specialization of Data Science",
