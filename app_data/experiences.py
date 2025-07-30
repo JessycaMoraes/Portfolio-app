@@ -1,6 +1,6 @@
 experiences = [
     {
-        "logo": "assets/images/act_digital_logo.jpeg",
+        "logo": "assets/images/act_digital_logo.png",
         "title": "Data Analyst | Business Intelligence Analyst",
         "subtitle": "Act Digital",
         "period": "05/2025 to present",
