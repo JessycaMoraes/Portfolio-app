@@ -5,6 +5,11 @@ tools = [
     },
 
     {
+        "url_tool" : "assets/images/pyspark_tool_logo.png", 
+        "name_tool" : "PySpark"
+    },
+
+    {
         "url_tool" : "assets/images/sql_tool_logo.png",
         "name_tool" : "SQL"
     },
@@ -17,6 +22,11 @@ tools = [
     {
         "url_tool" : "assets/images/gcp_logo.jpeg", 
         "name_tool" : "GCP"
+    },
+
+    {
+        "url_tool" : "assets/images/nekt_logo.jpeg", 
+        "name_tool" : "Nekt"
     },
 
     {
@@ -37,5 +47,10 @@ tools = [
     {
         "url_tool" : "assets/images/jira_logo.png", 
         "name_tool" : "Jira"
+    },
+
+    {
+        "url_tool" : "assets/images/bitrix_logo.jpeg", 
+        "name_tool" : "Bitrix"
     }
 ]
