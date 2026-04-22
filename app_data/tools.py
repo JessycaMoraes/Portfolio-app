@@ -25,7 +25,7 @@ tools = [
     },
 
     {
-        "url_tool" : "assets/images/nekt_logo.jpeg", 
+        "url_tool" : "assets/images/nekt_logo.png", 
         "name_tool" : "Nekt"
     },
 
