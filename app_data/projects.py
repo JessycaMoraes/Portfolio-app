@@ -213,7 +213,7 @@ projects = [
         "description": "Forecast accuracy analysis using BigQuery and SQL to evaluate material consumption patterns, identify stock risks, and generate actionable insights through analytical modeling and dashboards.", 
         "year": "2025", 
         "tag1": "Google BigQuery", 
-        "tag2": "SQL", 
+        "tag2": "Forecasting", 
         "tag3": "Looker Studio", 
         "image_path": "assets/images/forecast_logo.png", 
         "link": f"https://github.com/JessycaMoraes/material-consumption-forecast-analysis" 
