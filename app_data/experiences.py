@@ -1,6 +1,5 @@
 experiences = [
     {
-<<<<<<< HEAD
         "logo": "assets/images/brognoli_logo.png",
         "title": "Data Analyst",
         "subtitle": "Brognoli Imóveis",
@@ -38,41 +37,18 @@ experiences = [
         """
     },
 
-=======
-        "logo": "assets/images/act_digital_logo.png",
-        "title": "Data Analyst | Business Intelligence Analyst",
-        "subtitle": "Act Digital",
-        "period": "05/2025 to present",
-        "desc": """
-            - Built new dashboards from scratch in Looker Studio to meet evolving business needs and enhance visibility of ad performance;
-            - Improved the reliability and accuracy of Looker Studio dashboards by identifying and correcting data inconsistencies;
-            - Streamlined communication between business and BI teams through a structured request process based on requirements gathering;
-            - Explored automated dashboard creation using Python and Google Sheets, identifying technical limitations that led to the decision to not pursue this approach.\n  
-            **Tools:** Python, SQL, Google BigQuery, Google Cloud Platform (GCP), Looker Studio, Google Sheets, Gitlab, Jira, Confluence.
-        """
-    },
-    
->>>>>>> f382220a995582c45f238c1075af1a05a177fba6
     {
         "logo": "assets/images/alrightmediatech_logo.jpeg",
         "title": "Data Analyst | Analytics Engineer",
         "subtitle": "Alright",
         "period": "04/2024 to 09/2024",
         "desc": """
-<<<<<<< HEAD
             - Automated 10+ data ingestion pipelines using Python (cron jobs, APIs, email extraction), reducing manual workload.
             - Designed and optimized BigQuery datasets and views, powering dashboards in Looker Studio and Looker Pro.
             - Built geospatial and interactive dashboards to support decision-making across marketing campaigns.
             - Prepared structured datasets for AI/ML training, ensuring data readiness for predictive analytics.
             - Authored comprehensive documentation for ETL and BI processes, improving onboarding efficiency.\n
             **Impact:** Enhanced reporting speed and reliability, enabling stakeholders to make faster, data-driven decisions.
-=======
-            - Improved data ingestion efficiency by automating and optimizing +10 Python ETL scripts;
-            - Developed custom Python scripts to extract data from emails, expanding acquisition capabilities when APIs were unavailable;
-            - Designed and implemented database structures and views, streamlining access and analysis;
-            - Enhanced dashboard performance and usability, providing key insights to stakeholders;
-            - Created comprehensive documentation for ETL processes, dashboards, and database structures, ensuring knowledge continuity and facilitating onboarding for future analysts.\n  
->>>>>>> f382220a995582c45f238c1075af1a05a177fba6
             **Tools:** Python, SQL, MySQL, Google BigQuery, Google Cloud Platform (GCP), Looker Studio, Looker Pro, Google Sheets, GitHub, Jira, Monday.
         """
     },
@@ -83,7 +59,6 @@ experiences = [
         "subtitle": "Eldorado Research Institute",
         "period": "01/2022 to 04/2024",
         "desc": f"""
-<<<<<<< HEAD
             - Led product performance analytics for 29% of a smartphone portfolio, influencing strategic decisions on product launches.
             - Conducted statistical and exploratory analysis to identify operators, chipsets, and devices behind recurring customer complaints.
             - Directed troubleshooting efforts towards targeted devices, reducing time-to-resolution and improving NPS.
@@ -91,13 +66,6 @@ experiences = [
             - Collaborated with US-based teams to align analytics with product roadmaps.
             - Received the “Excellence Award for Contribution” for impactful analysis and process improvements.\n
             **Impact:** Strengthened product reliability, improved customer satisfaction, and optimized engineering resources.
-=======
-            - Led data analysis for 29% of the product portfolio, overseeing NPS metrics and smartphone data for market launches, enabling data-driven decision-making; 
-            - Identified critical data patterns that led to software optimizations, improving product performance and contributing to higher NPS scores; 
-            - Contributed to the development of the Data Analysis Portal, serving as a technical reference in the local team;
-            - Conducted research of Streamlit, introducing interactive data visualization solutions;
-            - Recognized with the "Excellence Award for Contribution" for outstanding impact on data analysis and process improvements.\n
->>>>>>> f382220a995582c45f238c1075af1a05a177fba6
             **Tools:** SQL, Google BigQuery, Google Sheets, Looker Studio, Python, Google Colaboratory, Streamlit, Jira.
         """
     },
@@ -108,20 +76,12 @@ experiences = [
         "subtitle": "Bemol Digital",
         "period": "09/2020 to 01/2022",
         "desc": f"""
-<<<<<<< HEAD
             - Automated 10+ workflows using Python, cutting manual reporting time and increasing accuracy.
             - Analyzed SAP ERP sales and supply chain data to support business decisions and optimize logistics.
             - Designed KPIs to track operational performance and monitor product launches.
             - Delivered consistent reports and insights, supporting strategic initiatives across retail and pharmaceutical operations.\n
 
             **Impact:** Enabled data-driven decision-making and improved operational efficiency.
-=======
-            - Developed and implemented KPIs using Python, improving efficiency in retail and pharmaceutical logistics;
-            - Enabled data-informed decisions through consistent monitoring and reporting of supply chain metrics;
-            - Enhanced process efficiency by automating + 10 manual workflows using Python;
-            - Created clear documentation to ensure maintainability and knowledge sharing;
-            - Contributed to the successful launch of key initiatives led by the business unit. \n
->>>>>>> f382220a995582c45f238c1075af1a05a177fba6
             **Tools:** Python, Jupyter Notebook, SAP ERP, Microsoft Excel.
         """
     }
@@ -129,19 +89,6 @@ experiences = [
 
 education_br = [
     {
-<<<<<<< HEAD
-=======
-        "logo": "assets/images/infnet_logo.png",
-        "title": "Infnet Institute",
-        "subtitle": "MIT in Data Engineering: Big Data",
-        "period": "07/2025 to present",
-        "desc": """
-            - **Relevant coursework:** MongoDB, Hadoop, Kafka, Spark, Python, Google Bigquery, Machine Learning.
-        """
-    },
-    
-    {
->>>>>>> f382220a995582c45f238c1075af1a05a177fba6
         "logo": "assets/images/uea_logo.png",
         "title": "UEA - State University of Amazonas",
         "subtitle": "Specialization of Data Science",
@@ -209,8 +156,4 @@ cert_courses = [
             - Feature Engineering
         """
     }
-<<<<<<< HEAD
 ]
-=======
-]
->>>>>>> f382220a995582c45f238c1075af1a05a177fba6
