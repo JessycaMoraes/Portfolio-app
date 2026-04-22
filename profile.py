@@ -61,7 +61,7 @@ st.markdown("<div id='about'></div>", unsafe_allow_html = True)
 st.markdown("<h2 style='color:#2563EB; margin-top: 15px;'>👩‍💻 About me</h2>", unsafe_allow_html = True)
 
 st.write("""
-I'm a data enthusiast with over 4 years of experience turning raw data into meaningful insights.  
+I'm a data enthusiast with over 5 years of experience turning raw data into meaningful insights.  
 My journey has taken me through data engineering, analysis, and collaboration with cross-functional teams to build solutions that are both scalable and impactful.
 
 I specialize in building efficient ETL pipelines, working with Python and SQL, and delivering data that drives decision-making and business growth.  
