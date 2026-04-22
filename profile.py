@@ -197,8 +197,8 @@ componentsv1.html(hire_cards_html, height = 1100, scrolling = False)
 ## Footnote
 st.markdown("<div class='footer-message'> Let's build data-driven success together! 🚀</div>", unsafe_allow_html = True)
 
-cv_en_path = "assets/CVs/JessycaMoraesResumeDA25.pdf"
-cv_pt_path = "assets/CVs/JessycaMoraesCurriculoAD25.pdf"
+cv_en_path = "assets/CVs/JessycaMoraesResume26.pdf"
+cv_pt_path = "assets/CVs/JessycaMoraesCurriculo26.pdf"
 
 ## Download buttons
 download_link_en = download_button(cv_en_path, "↓ Download CV (EN)")
