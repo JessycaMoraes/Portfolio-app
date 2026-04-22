@@ -208,6 +208,17 @@ projects = [
         "link": f"https://github.com/JessycaMoraes/promotions_products_etl"
     },
 
+    { 
+        "title": "Material Consumption Forecast Analysis", 
+        "description": "Forecast accuracy analysis using BigQuery and SQL to evaluate material consumption patterns, identify stock risks, and generate actionable insights through analytical modeling and dashboards.", 
+        "year": "2025", 
+        "tag1": "Google BigQuery", 
+        "tag2": "SQL", 
+        "tag3": "Looker Studio", 
+        "image_path": "assets/images/forecast_logo.png", 
+        "link": f"https://github.com/JessycaMoraes/material-consumption-forecast-analysis" 
+    },
+
     {
         "title": "Data Engineering Pipeline with API Enrichment",
         "description": "Data engineering pipeline to integrate and clean heterogeneous datasets, enrich them with external API data, and model them into a scalable structure for analytics.",
