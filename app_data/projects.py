@@ -219,6 +219,39 @@ projects = [
         "link": f"https://github.com/JessycaMoraes/material-consumption-forecast-analysis" 
     },
 
+    { 
+        "title": "E-commerce Analytics with Hadoop & Hive",
+        "description": "Big Data analytics project using Hadoop and Hive to process and analyze large-scale e-commerce data, generating business insights through distributed SQL queries and data modeling.",
+        "year": "2025",
+        "tag1": "Hadoop",
+        "tag2": "Hive",
+        "tag3": "SQL",
+        "image_path": "assets/images/hadoop_logo.png",
+        "link": "https://github.com/JessycaMoraes/ecommerce-hadoop-analytics"
+    },
+
+    { 
+        "title": "E-commerce Data Processing with PySpark",
+        "description": "Data processing and analysis using PySpark and Spark SQL, enabling scalable transformations and efficient querying of large e-commerce datasets.",
+        "year": "2025",
+        "tag1": "PySpark",
+        "tag2": "Spark SQL",
+        "tag3": "Data Processing",
+        "image_path": "assets/images/spark_logo.png",
+        "link": "https://github.com/JessycaMoraes/ecommerce-spark-analytics"
+    },
+
+    {
+        "title": "Diabetes Prediction with PySpark ML",
+        "description": "Machine learning pipeline using PySpark MLlib to predict diabetes based on clinical data, including data preprocessing, class balancing, and model evaluation with Logistic Regression and Random Forest.",
+        "year": "2025",
+        "tag1": "PySpark",
+        "tag2": "Machine Learning",
+        "tag3": "MLlib",
+        "image_path": "assets/images/pyspark_ml_logo.png",
+        "link": "https://github.com/JessycaMoraes/pyspark-ml-diabetes-prediction"
+    },
+
     {
         "title": "Data Engineering Pipeline with API Enrichment",
         "description": "Data engineering pipeline to integrate and clean heterogeneous datasets, enrich them with external API data, and model them into a scalable structure for analytics.",
