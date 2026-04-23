@@ -226,7 +226,7 @@ projects = [
         "tag1": "Hadoop",
         "tag2": "Hive",
         "tag3": "SQL",
-        "image_path": "assets/images/hadoop_logo.png",
+        "image_path": "assets/images/hadoop_logo.jpeg",
         "link": "https://github.com/JessycaMoraes/ecommerce-hadoop-analytics"
     },
 
@@ -237,7 +237,7 @@ projects = [
         "tag1": "PySpark",
         "tag2": "Spark SQL",
         "tag3": "Data Processing",
-        "image_path": "assets/images/spark_logo.png",
+        "image_path": "assets/images/pyspark_logo.jpg",
         "link": "https://github.com/JessycaMoraes/ecommerce-spark-analytics"
     },
 
@@ -253,7 +253,7 @@ projects = [
     },
 
     {
-        "title": "st.write("") Data Engineering Pipeline with API Enrichment",
+        "title": "Data Engineering Pipeline with API Enrichment",
         "description": "Data engineering pipeline to integrate and clean heterogeneous datasets, enrich them with external API data, and model them into a scalable structure for analytics.",
         "year": "2026",
         "tag1": "Python",
