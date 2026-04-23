@@ -253,7 +253,7 @@ projects = [
     },
 
     {
-        "title": "Data Engineering Pipeline with API Enrichment",
+        "title": "st.write("") Data Engineering Pipeline with API Enrichment",
         "description": "Data engineering pipeline to integrate and clean heterogeneous datasets, enrich them with external API data, and model them into a scalable structure for analytics.",
         "year": "2026",
         "tag1": "Python",
