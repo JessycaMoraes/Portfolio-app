@@ -32,7 +32,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.title("Hey there! :wave:")
-    st.header("I’m Jessyca Moraes a Brazilian Data Analyst")
+    st.header("I’m Jessyca Moraes a Brazilian Data Engineer and Data Analyst.")
     st.subheader("and this is my professional journey.")
 
 with col2:
@@ -83,7 +83,7 @@ st.markdown("""
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown("🐶 I have two dogs and three cats that make my life fun and full of energy.")
+    st.markdown("🐶 I have one dogs and four cats that make my life fun and full of energy.")
     st.markdown("🌍 I'm originally from Manaus, Amazonas — the heart of the Amazon rainforest.")
     st.markdown("✈️ I went on an exchange program to Arizona in 2014, which helped expand my horizons.")
 

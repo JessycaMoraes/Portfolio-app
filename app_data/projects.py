@@ -225,7 +225,7 @@ projects = [
         "year": "2025",
         "tag1": "Hadoop",
         "tag2": "Hive",
-        "tag3": "SQL",
+        "tag3": "Data Engineering",
         "image_path": "assets/images/hadoop_logo.jpeg",
         "link": "https://github.com/JessycaMoraes/ecommerce-hadoop-analytics"
     },
@@ -236,7 +236,7 @@ projects = [
         "year": "2025",
         "tag1": "PySpark",
         "tag2": "Spark SQL",
-        "tag3": "Data Processing",
+        "tag3": "Data Engineering",
         "image_path": "assets/images/pyspark_logo.jpg",
         "link": "https://github.com/JessycaMoraes/ecommerce-spark-analytics"
     },
@@ -261,5 +261,16 @@ projects = [
         "tag3": "ETL Pipeline",
         "image_path": "assets/images/data_engineering_pipeline_logo.png",
         "link": "https://github.com/JessycaMoraes/data-eng-pipeline-challenge"
+    },
+
+    {
+        "title": "Weather Lakehouse – Medallion Architecture",
+        "description": "End-to-end data engineering project using Python, Docker, Databricks, PySpark and Delta Lake to ingest public weather data from the Open-Meteo API, implement Medallion Architecture (Bronze, Silver and Gold), track ingestion metadata, validate data quality, and create business-oriented SQL views for analytics.",
+        "year": "2026",
+        "tag1": "Databricks",
+        "tag2": "PySpark",
+        "tag3": "Data Engineering",
+        "image_path": "assets/images/weather_lakehouse_logo.png",
+        "link": "https://github.com/JessycaMoraes/weather-lakehouse"
     }
 ]
